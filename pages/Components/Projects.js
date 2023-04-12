@@ -9,7 +9,7 @@ const Projects = () => {
       <Carousel.Item className='d-flex justify-content-center pb-5'>
         <Row>
           <Col xs={12} sm={6} md={4}>
-            <Card bg='dark' text='white' style={{ width: '25rem' }}>
+            <Card bg='dark' text='white' style={{ width: '23rem' }}>
               <Card.Img variant="top" src="./images/Projects/Password-Generator.gif" style={{height:'17rem'}} />
               <Card.Body>
                 <Card.Title>Password Generator</Card.Title>
@@ -23,12 +23,12 @@ const Projects = () => {
             </Card>
           </Col>
           <Col xs={12} sm={6} md={4}>
-            <Card bg='dark' text='white' style={{ width: '25rem' }}>
+            <Card bg='dark' text='white' style={{ width: '23rem' }}>
               <Card.Img variant="top" src="./images/Projects/Landing.gif" style={{height:'17rem'}} />
               <Card.Body>
                 <Card.Title>Landing Page 1</Card.Title>
                 <Card.Text>
-                  Crafted an engaging landing page using HTML, CSS, and JS that captivates visitors with its sleek design and immersive user experience.
+                Crafted an engaging, responsive landing page using HTML, CSS, and JS that captivates visitors with its sleek design, immersive user experience, and fast performance.
                 </Card.Text>
                 <a href="https://github.com/CarlosLmB/Landing-projects/tree/main/Landing1b" target="_blank">
                   <Button variant="primary">See Project</Button>
@@ -37,7 +37,7 @@ const Projects = () => {
             </Card>
           </Col>
           <Col xs={12} sm={6} md={4}>
-            <Card bg='dark' text='white' style={{ width: '25rem' }}>
+            <Card bg='dark' text='white' style={{ width: '23rem' }}>
               <Card.Img variant="top" src="./images/Projects/Tetris-js.gif" style={{height:'17rem'}} />
               <Card.Body>
                 <Card.Title>Tetris Game</Card.Title>
@@ -56,7 +56,7 @@ const Projects = () => {
       <Carousel.Item className='d-flex justify-content-center'>
         <Row>
           <Col xs={12} sm={6} md={4}>
-            <Card bg='dark' text='white' style={{ width: '25rem' }}>
+            <Card bg='dark' text='white' style={{ width: '23rem' }}>
               <Card.Img variant="top" src="./images/Projects/Calculator.png" style={{height:'17rem'}} />
               <Card.Body>
                 <Card.Title>Calculator</Card.Title>
@@ -70,12 +70,12 @@ const Projects = () => {
             </Card>
           </Col>
           <Col xs={12} sm={6} md={4}>
-            <Card bg='dark' text='white' style={{ width: '25rem' }}>
+            <Card bg='dark' text='white' style={{ width: '23rem' }}>
               <Card.Img variant="top" src="./images/Projects/Survey-form.gif" style={{height:'17rem'}} />
               <Card.Body>
                 <Card.Title>Survey Form</Card.Title>
                 <Card.Text>
-                My survey form, designed with HTML and CSS, facilitates gathering feedback with user-friendly interface.
+                My responsive survey form, designed with HTML, CSS, and JavaScript, facilitates gathering valuable user feedback with an intuitive and user-friendly interface.
                 </Card.Text>
                 <a href="https://github.com/CarlosLmB/Survey-form" target="_blank">
                   <Button variant="primary">See Project</Button>
@@ -84,7 +84,7 @@ const Projects = () => {
             </Card>
           </Col>
           <Col xs={12} sm={6} md={4}>
-            <Card bg='dark' text='white' style={{ width: '25rem' }}>
+            <Card bg='dark' text='white' style={{ width: '23rem' }}>
               <Card.Img variant="top" src="./images/Projects/City-skyline.gif" style={{height:'17rem'}} />
               <Card.Body>
                 <Card.Title>City Skyline</Card.Title>
