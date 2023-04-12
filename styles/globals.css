@@ -1,0 +1,80 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+  background: linear-gradient(to bottom right, #666666 45%, #000000 75%);
+  font-family: Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+
+/*Heroe*/
+
+@media (min-width: 425px) {
+  .rounded-lg-3 { border-radius: .3rem; }
+}
+
+.bg-scroll {
+  background-image: url('/images/Hero/background.png');
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 950px;
+  width: 100%;
+}
+
+/*------------------------------------------Icons-----------------------------------------*/
+@media (max-width: 1024px) {
+  .icon {
+    transform: scale(0.8);
+  }
+}
+/*------------------------------------------Grid-------------------------------------------*/
+
+
+.themed-grid-col {
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  
+}
+
+.themed-container {
+  padding: .75rem;
+  margin-bottom: 1.5rem;
+  
+}
+
+/*-----------------------------------------------------------------------------------------*/
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1,
+h2,
+p,
+ul {
+  margin: 0;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  font-weight: bold;
+}
