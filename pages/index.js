@@ -12,7 +12,7 @@ import Col from 'react-bootstrap/Col';
 export default function Portfolio() {
   return (
     <div>
-      <Heroes />
+      <Heroes/>
 
       <Container
         id="projects"

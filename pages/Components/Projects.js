@@ -9,7 +9,7 @@ const Projects = () => {
       <Carousel.Item className='d-flex justify-content-center pb-5'>
         <Row>
           <Col xs={12} sm={6} md={4}>
-            <Card bg='dark' text='white' style={{ width: '23rem' }}>
+            <Card bg='dark' text='white' style={{ width: '23rem'}}>
               <Card.Img variant="top" src="./images/Projects/Password-Generator.gif" style={{height:'17rem'}} />
               <Card.Body>
                 <Card.Title>Password Generator</Card.Title>

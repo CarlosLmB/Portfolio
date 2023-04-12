@@ -7,7 +7,9 @@ const Heroes = () => {
       <Container>
         <Row>
           <Col>
-            <img src='./images/Hero/Logo.png' style={{width:'30%'}}/>
+            <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+              <img src="./images/Hero/Logo.png" style={{ maxWidth: '80%', maxHeight: '70%' }} />
+            </div>
             <h1 className="display-5 fw-bold">Welcome to my Portfolio</h1>
             <div className="col-lg-6 mx-auto">
               <p className="lead mb-4">Here you can find my latest projects and skills as a web developer.</p>
