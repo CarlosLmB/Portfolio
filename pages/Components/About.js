@@ -12,13 +12,19 @@ const About = () => {
           Technology has always been an area that has piqued my interest and instilled a sense of passion in me. My main objective is to enhance my skill set and pursue a career as a developer, with the ultimate goal of becoming an outstanding professional in my field and specializing in AI or Cybersecurity. However, I am aware that Web development is merely the starting point of my journey.
           <br></br>
           <br></br>
-          I have developed skills in HTML, CSS, JavaScript and Python, and I am familiar with various frameworks and libraries. I am passionate about web development and eager to learn and grow. I am confident that I can create a website that meets your needs, regardless of size or budget.
+          I have experience in HTML, CSS, JavaScript, and Python, and I'm familiar with several frameworks and libraries. As a problem solver, I am passionate about web development and always eager to learn more.
           <br></br>
           <br></br>
-          Besides technology, I enjoy trying new things and stepping out of my comfort zone. I like doing martial arts like calisthenics, krav maga, and boxing. In my free time, I read and watch movies to learn about different cultures. I think it's important to balance physical and mental activities for a healthy lifestyle. I always try to do new things and spend time with people I care about.
+          With my skills and ability to think critically, I'm confident that I can create a website that not only meets your needs but also solves any challenges that may arise. Whether your project is small or large, I am dedicated to providing excellent services that are customized to your specific requirements.
+          <br></br>
+          <br></br>
+          Besides technology, I enjoy trying new things and stepping out of my comfort zone. In my free time, I read and watch movies to learn about different cultures. I think it's important to balance physical and mental activities for a healthy lifestyle. I always try to do new things and spend time with people I care about.
+          <br></br>
+          <br></br>
+          I take pride in my ability to listen attentively to the needs of those I work with and deliver tailored solutions that exceed their expectations.
           <br></br>
           <br></br> 
-          Please contact me if you are interested in working with me.
+          Contact me if you are interested in working with me.
         </p>
         <Button variant="outline-dark" size="lg" className="px-4" href="/cv/Resume.pdf" download>
           Download CV

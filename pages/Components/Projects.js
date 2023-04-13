@@ -14,7 +14,7 @@ const Projects = () => {
               <Card.Body>
                 <Card.Title>Password Generator</Card.Title>
                 <Card.Text>
-                  I decided to made a Password generator by leveraging the power of modern web technologies such as React and styled components.
+                  I decided to make a Password generator by leveraging the power of modern web technologies such as React and styled components.
                 </Card.Text>
                 <a href="https://github.com/CarlosLmB/Password-Generator/tree/master" target="_blank">
                   <Button variant="primary">See Project</Button>
