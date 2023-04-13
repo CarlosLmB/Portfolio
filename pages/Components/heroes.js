@@ -12,7 +12,7 @@ const Heroes = () => {
             </div>
             <h1 className="display-5 fw-bold">Welcome to my Portfolio</h1>
             <div className="col-lg-6 mx-auto">
-              <p className="lead mb-4">Here you can find my latest projects and skills as a web developer.</p>
+              <p className="lead mb-4">Here you can see my skills and find my latest projects as a web developer.</p>
               <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
               </div>
             </div>
