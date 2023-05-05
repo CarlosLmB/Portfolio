@@ -26,7 +26,7 @@ const About = () => {
           <br></br> 
           Contact me if you are interested in working with me.
         </p>
-        <Button variant="outline-dark" size="lg" className="px-4" href="/cv/Resume.pdf" download>
+        <Button variant="outline-dark" size="lg" className="px-4" href="/cv/Carlos Cordero CV.pdf" download>
           Download CV
         </Button>
       </Col>
